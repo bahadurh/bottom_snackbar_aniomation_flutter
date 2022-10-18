@@ -1,0 +1,1 @@
+Hello, in this package, thte notification is shown on bottom of page.
